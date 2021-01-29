@@ -1,7 +1,0 @@
-C:\Users\WTI\Documents\My Projects\107\taskManager2.0\107_3-backupCode-main\taskManager\obj\Debug\netcoreapp3.1\taskManager.csprojAssemblyReference.cache
-C:\Users\WTI\Documents\My Projects\107\taskManager2.0\107_3-backupCode-main\taskManager\obj\Debug\netcoreapp3.1\taskManager.AssemblyInfoInputs.cache
-C:\Users\WTI\Documents\My Projects\107\taskManager2.0\107_3-backupCode-main\taskManager\obj\Debug\netcoreapp3.1\taskManager.AssemblyInfo.cs
-C:\Users\WTI\Documents\My Projects\107\taskManager2.0\107_3-backupCode-main\taskManager\obj\Debug\netcoreapp3.1\taskManager.csproj.CoreCompileInputs.cache
-C:\Users\WTI\Documents\My Projects\107\taskManager2.0\107_3-backupCode-main\taskManager\obj\Debug\netcoreapp3.1\taskManager.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\WTI\Documents\My Projects\107\taskManager2.0\107_3-backupCode-main\taskManager\obj\Debug\netcoreapp3.1\taskManager.RazorAssemblyInfo.cache
-C:\Users\WTI\Documents\My Projects\107\taskManager2.0\107_3-backupCode-main\taskManager\obj\Debug\netcoreapp3.1\taskManager.RazorAssemblyInfo.cs
